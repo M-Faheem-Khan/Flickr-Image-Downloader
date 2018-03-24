@@ -8,4 +8,4 @@ Requests
 
 In future versions:
 - output file with links to author and image will given
-- Ability to download more than 22 images
+- Ability mass download images( > 22)
